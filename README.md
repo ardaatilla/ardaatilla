@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/ardaatilla/ardaatilla/main/Hi!%20I%E2%80%99m%20Arda.png)
 <h1 align="center">Hi , I'm Arda</h1>
 <h3 align="center">Front-end Dev</h3>
 

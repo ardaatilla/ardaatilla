@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaatilla&label=Profile%20views&color=0e75b6&style=flat" alt="ardaatilla" /> </p>
 
-- 🌱 I’m currently learning **JS, BOOTSTRAP 5, TYPESCRIPT, REACT JS, ANGULAR, VUE JS**
+- 🌱 I’m currently learning **Touch Designer, and I'm also tryna be a front-end dev.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ardaatilla](https://github.com/ardaatilla)
-
-- 💬 Ask me about **Html, Css, JavaScript**
 
 - 📫 How to reach me **arda4tilla@gmail.com**
 

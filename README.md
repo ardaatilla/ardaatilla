@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/ardaatilla/ardaatilla/main/Hi!%20I%E2%80%99m%20Arda.png)
-<h1 align="center">Hi , I'm Arda</h1>
-<h3 align="center">Front-end Dev</h3>
+<h1 align="center">Hello , I'm Arda</h1>
+<h3 align="center">Wanna be Full-Stack Developer and Creative coder.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ardaatilla&label=Profile%20views&color=0e75b6&style=flat" alt="ardaatilla" /> </p>
 
